@@ -10,7 +10,7 @@ I'm interested in:
 - Web design 
 
 <div align = "center">
-    <img height = 180em src="https://github-readme-stats.vercel.app/api?username=zepilim&hide=contribs&show_icons=true&theme=dark&icon_color=8c2c19&ring_color=8c2c19&hide_border=true">
+    <img height = 180em src="https://github-readme-stats.vercel.app/api?username=zepilim&hide=contribs&show_icons=true&theme=dark&icon_color=8c2c19&ring_color=8c2c19&hide_border=true&rank_icon=github">
 </div>
 
 <h2 style="text-align:center;">Projects</h2>
