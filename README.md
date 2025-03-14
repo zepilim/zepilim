@@ -1,7 +1,7 @@
-<header align="center">
+<div align="center">
   <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <h1>Hello there!</h1>
-</header>
+  <h1 align="center">Hello there!</h1>
+</div>
 
 ```cpp 
 #include <iostream>
