@@ -29,7 +29,7 @@ class Jose_Reis {
       "🎬 Watching Movies",
       "👾 Gaming",
       "🛹 Skating",
-      "🎓🎶🎸🇵🇹 TEUP"
+      "🎓🎶🪗🇵🇹 TEUP"
     }
 
 }
