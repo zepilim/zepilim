@@ -1,13 +1,39 @@
-# Hi there, I'm José Reis 👋
+<header align="center">
+  <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <h1>Hello there!</h1>
+</header>
 
-📚 BSc Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
+```cpp 
+#include <iostream>
+#include <string>
+#include <vector>
 
-I'm interested in:
-- Cybersecurity
-- Game development
-- Backend development
-- Frontend development
-- Web design 
+class José_Reis {
+  public:
+
+    std::string degree = "📚 BSc Informatics and Computing Engineering";
+    std::string university = "🏫 FEUP";
+    std::vector<string> interests = {
+      "Cybersecurity",
+      "Game development",
+      "Backend development",
+      "Frontend development",
+      "Web Design"
+    };
+
+  private:  
+
+    std::vector<string> hobbies = {
+      "🎧 Listen to music",
+      "🕺 Dance",
+      "🎬 Watching Movies",
+      "👾 Gaming",
+      "🛹 Skating",
+      "🎓🎶🎸🇵🇹 TEUP"
+    }
+
+}
+```
 
 <div align = "center">
     <img height = 180em src="https://github-readme-stats.vercel.app/api?username=zepilim&hide=contribs&show_icons=true&theme=dark&icon_color=8c2c19&ring_color=8c2c19&hide_border=true&rank_icon=github">
