@@ -8,7 +8,7 @@
 #include <string>
 #include <vector>
 
-class José_Reis {
+class Jose_Reis {
   public:
 
     std::string degree = "📚 BSc Informatics and Computing Engineering";
