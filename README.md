@@ -30,7 +30,7 @@ class Jose_Reis {
       "👾 Gaming",
       "🛹 Skating",
       "🎓🎶🪗🇵🇹 TEUP"
-    }
+    };
 
 }
 ```
