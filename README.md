@@ -35,7 +35,7 @@ class Jose_Reis {
 }
 ```
 
-<h2 style="text-align:center;">Projects</h2>
+<h2 style="text-align:center;">Projects Portfolio</h2>
 
 <p align = "center">
 
